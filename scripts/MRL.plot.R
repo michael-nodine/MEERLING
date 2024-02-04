@@ -2,7 +2,7 @@
 
 #Examines transcript levels of genes-of-interest (e.g MRL) based on publicly available mRNA-seq datasets
 
-dirRoot = '/Users/michael.nodine/Documents/manuscripts/primary/Honglei_MRL/github/'
+dirRoot = '../github/'      #Add the name of your directory here
 dataRoot = paste(dirRoot,'resources/',sep="")
 printRoot = paste(dirRoot,'graphs/',sep="")
 
